@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[AlphaBlendTextEdit.cs](./CS/TransparentEditorExample/AlphaBlendTextEdit/AlphaBlendTextEdit.cs) (VB: [AlphaBlendTextEdit.vb](./VB/TransparentEditorExample/AlphaBlendTextEdit/AlphaBlendTextEdit.vb))**
+* [RepositoryItemIlphaBlendTextEdit.cs](./CS/TransparentEditorExample/AlphaBlendTextEdit/RepositoryItemIlphaBlendTextEdit.cs) (VB: [RepositoryItemIlphaBlendTextEdit.vb](./VB/TransparentEditorExample/AlphaBlendTextEdit/RepositoryItemIlphaBlendTextEdit.vb))
+<!-- default file list end -->
 # How to create a transparent TextEdit
 
 
